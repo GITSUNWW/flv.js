@@ -10,7 +10,7 @@ matrix:
     # linux publishable node v8
     - os: linux
       env: BUILDTYPE=release
-      node_js: 8
+      node_js: 9
 #deploy:
   #provider: pages
   #skip-cleanup: true
